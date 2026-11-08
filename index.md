@@ -2,9 +2,9 @@
 
 Maison Editorial is an Online Store 2.0 Shopify theme designed for editorial-style luxury fashion storefronts, including apparel, footwear, handbags, jewellery, watches and accessories.
 
-**Theme version:** 0.2.0  
+**Theme version:** 0.3.0  
 **Developer:** Ecommark Digital  
-**Support:** [khingsmhart45@gmail.com](mailto:khingsmhart45@gmail.com)
+**Support:** [Contact the support team](/maison-editorial-documentation/support/)
 
 > This documentation describes the current theme build. Some features depend on Shopify store configuration, product data, installed apps and the active theme settings. Always test changes in an unpublished theme before publishing to a live storefront.
 
@@ -138,13 +138,32 @@ Performance depends on image weight, app scripts, custom code, product count, th
 
 **The storefront looks different on mobile:** Review image focal points, section settings, long headings and custom code at mobile widths. Test on an actual device where possible.
 
-## Support
+## Frequently asked questions
 
-For theme setup questions or to report a theme issue, contact:
+**Can I use Maison Editorial for a store outside the fashion industry?**  
+Yes. The theme is designed around editorial merchandising and can be configured for other product-led brands, although its default art direction is optimized for fashion, accessories and lifestyle products.
 
-**Email:** [khingsmhart45@gmail.com](mailto:khingsmhart45@gmail.com)
+**Why is my hero or featured collection empty after installation?**  
+The theme does not bundle a merchant's campaign images, products or collections. Select a hero image and assign a collection in the Theme Editor.
 
-When reporting an issue, include the affected page URL, a description of the expected and actual behavior, the device/browser, and steps to reproduce it. Do not send passwords, payment details or other sensitive account information.
+**Why are product filters or recommendations not appearing?**  
+Shopify only displays filters and recommendations when the store has the relevant product data, Search & Discovery configuration and eligible products. Confirm those settings in Shopify admin.
+
+**Why is the Follow on Shop button not visible?**  
+The Shop channel and Shop Pay must be available and enabled for the store. Shopify controls the branded button and its availability.
+
+**Can I edit theme code?**  
+Yes, but duplicate the theme before editing code. Custom code can affect updates, accessibility, performance and compatibility. Use a qualified Shopify developer if you are unsure.
+
+## Support policy
+
+For theme setup questions or to report a theme issue, use the [Maison Editorial support contact form](/maison-editorial-documentation/support/). You can also email [khingsmhart45@gmail.com](mailto:khingsmhart45@gmail.com) if the form is unavailable.
+
+We aim to acknowledge theme support requests within two business days. Critical storefront defects are prioritized for investigation and correction. Support covers installation guidance, theme settings, and defects in the theme's shipped functionality. Custom development and third-party app configuration are outside standard theme support.
+
+When reporting an issue, include the affected page URL, a description of the expected and actual behavior, the device/browser, and steps to reproduce it. Screenshots are helpful. Do not send passwords, payment details or other sensitive account information.
+
+The support form accepts issue details and one optional file attachment. An automatic acknowledgement is configured. The first submission must be used to activate the FormSubmit.co endpoint by confirming the activation email sent to the support inbox. Test the form after activation before Theme Store submission.
 
 ## Useful Shopify resources
 
